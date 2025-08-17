@@ -1,0 +1,101 @@
+name,type
+Ansible Tower Cluster 4.5,Ansible Tower Cluster
+MongoDB Server Replication Cluster identified as 033A21D1-37B9-45BB-82B1-8CE8FB0D9DE8,MongoDB Server Replication Cluster
+Microsoft.SharePoint.exe,Microsoft.SharePoint.exe
+Microsoft SharePoint,Microsoft SharePoint
+MRT.exe,MRT.exe
+Windows Defender Advanced Threat Protection Service Executable,Windows Defender Advanced Threat Protection Service Executable
+omadmclient.exe,omadmclient.exe
+msiexec.exe,msiexec.exe
+SenseCE.exe,SenseCE.exe
+nginx,nginx
+ServicePerformance.dll,ServicePerformance.dll
+nginx,nginx
+TaniumTSDB,TaniumTSDB
+TaniumClient,TaniumClient
+pmd,pmd
+nginx,nginx
+Toc_nlp_bert_Engine.py,Toc_nlp_bert_Engine.py
+himds,himds
+VirtuaDesk.Agent.WebAPI.dll,VirtuaDesk.Agent.WebAPI.dll
+opsramp-agent,opsramp-agent
+opsramp-shield,opsramp-shield
+nginx,nginx
+fluentd,fluentd
+streamlit,streamlit
+nginx,nginx
+nginx,nginx
+opsramp-logs,opsramp-logs
+twistcli,twistcli
+xcd,xcd
+gunicorn,gunicorn
+omsbaseline,omsbaseline
+docker-buildx,docker-buildx
+SecPod® Saner Agent,SecPod® Saner Agent
+Update.exe,Update.exe
+Tanium python package runner,Tanium python package runner
+gunicorn,gunicorn
+vs_installer.exe,vs_installer.exe
+setup.exe,setup.exe
+vs_installer.windows.exe,vs_installer.windows.exe
+SecPod® Saner Scan Manager,SecPod® Saner Scan Manager
+filebeat.exe,filebeat.exe
+node.exe,node.exe
+Teams.exe,Teams.exe
+ssm-session-worker.exe,ssm-session-worker.exe
+streamlit,streamlit
+Qualys Cloud Agent,Qualys Cloud Agent
+dcconfig.exe,dcconfig.exe
+tomcat,tomcat
+chrome,chrome
+tomcat,tomcat
+MongoDB,MongoDB
+uemload.jar,uemload.jar
+chromedriver_linux64,chromedriver_linux64
+uemload.jar,uemload.jar
+tomcat,tomcat
+nginx,nginx
+docker-compose,docker-compose
+dotnet,dotnet
+dockerd,dockerd
+streamlit,streamlit
+rzc.dll,rzc.dll
+ServicePerformance.dll,ServicePerformance.dll
+VBCSCompiler.dll,VBCSCompiler.dll
+build,build
+publish,publish
+restore,restore
+updater.exe,updater.exe
+gdu,gdu
+out/node/entry.js (code-server),out/node/entry.js (code-server)
+streamlit,streamlit
+MSBuild.dll,MSBuild.dll
+VirtuaDesk.Agent.WebAPI.dll,VirtuaDesk.Agent.WebAPI.dll
+ServicePerformance.dll,ServicePerformance.dll
+Apache Tomcat Application Server Cluster 7.0 on 228.0.0.33:45533,Apache Tomcat Application Server Cluster
+Oracle WebLogic Server Cluster 11g Release 1 oacore_cluster1,Oracle WebLogic Server Cluster
+Oracle WebLogic Server Cluster 11g Release 1 forms_cluster1,Oracle WebLogic Server Cluster
+Oracle WebLogic Server Cluster 11g Release 1 oafm_cluster1,Oracle WebLogic Server Cluster
+uesAgentTrayIcon.exe,uesAgentTrayIcon.exe
+uesDeviceTempAccess.exe,uesDeviceTempAccess.exe
+XDR Collector Service,XDR Collector Service
+Antimalware Service Executable,Antimalware Service Executable
+AppDynamics.Extension.Manager.exe,AppDynamics.Extension.Manager.exe
+newrelic.exe,newrelic.exe
+newrelic-infra-service.exe,newrelic-infra-service.exe
+rundll*.exe,rundll*.exe
+newrelic-infra.exe,newrelic-infra.exe
+nr-winpkg.exe,nr-winpkg.exe
+Compiled with MSVC 19.29.30141.0,Compiled with MSVC 19.29.30141.0
+nri-winservices.exe,nri-winservices.exe
+OneAgent Python,OneAgent Python
+tzsync.exe,tzsync.exe
+sshd.exe,sshd.exe
+windows_exporter.exe,windows_exporter.exe
+EasyTravel,
+Enquiry-Services,
+Insurance-Services,
+Root,
+Insurance-Services,
+Enquiry-Services,
+Certification Services,
