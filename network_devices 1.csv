@@ -1,0 +1,87 @@
+name,type,model,serial
+FA-m20,Main Chassis,FA-m20,d926c4f4-ab4c-424e-94b8-d272ac0389dd
+ais-m7krds-07,Blade Enclosure,PowerEdge MX7000,6YQ9K93
+del-m7krds-04.apexglobal.com,Blade Enclosure,PowerEdge MX7000,FDVWB33
+ais-m7krds-04,Blade Enclosure,PowerEdge MX7000,4LJ6G73
+DataDomain DD9300,Main System Chassis,DD9300,FCNCS182000236
+DataDomain DS60,Expansion Chassis,DS60,APM00183232772
+DataDomain DS60,Expansion Chassis,DS60,APM00183232771
+DataDomain DS60,Expansion Chassis,DS60,APM00183232800
+DataDomain DS60,Expansion Chassis,DS60,CF2VE194900403
+del-m7krds-03.apexglobal.com,Blade Enclosure,PowerEdge MX7000,6FVWB33
+del-m7krds-06.apexglobal.com,Blade Enclosure,PowerEdge MX7000,D5D0L93
+del-m7krds-05.apexglobal.com,Blade Enclosure,PowerEdge MX7000,JCVWB33
+DataDomain DD990,Main System Chassis,DD990,4FA1733064
+DataDomain ES30,Expansion Chassis,ES30,APM00122304044
+DataDomain ES30,Expansion Chassis,ES30,APM00122303635
+DataDomain ES30,Expansion Chassis,ES30,APM00153314184
+DataDomain ES30,Expansion Chassis,ES30,APM00122304049
+DataDomain ES30,Expansion Chassis,ES30,APM00122304046
+DataDomain ES30,Expansion Chassis,ES30,APM00122304050
+DataDomain ES30,Expansion Chassis,ES30,APM00153314183
+DataDomain ES30,Expansion Chassis,ES30,APM00122304051
+DataDomain ES30,Expansion Chassis,ES30,APM00133435270
+DataDomain ES30,Expansion Chassis,ES30,APM00122303634
+DataDomain ES30,Expansion Chassis,ES30,APM00122304048
+DataDomain ES30,Expansion Chassis,ES30,APM00133435271
+DataDomain ES30,Expansion Chassis,ES30,APM00160234078
+DataDomain ES30,Expansion Chassis,ES30,APM00142418380
+DataDomain ES30,Expansion Chassis,ES30,APM00122304047
+DataDomain ES30,Expansion Chassis,ES30,APM00165098240
+DataDomain ES30,Expansion Chassis,ES30,APM00122304045
+DataDomain ES30,Expansion Chassis,ES30,APM00172052004
+DataDomain ES30,Expansion Chassis,ES30,APM00142420383
+DataDomain ES30,Expansion Chassis,ES30,APM00142105550
+DataDomain ES30,Expansion Chassis,ES30,APM00142426771
+del-m7krds-02.apexglobal.com,Blade Enclosure,PowerEdge MX7000,BBW7J23
+ais-m7krds-06,Blade Enclosure,PowerEdge MX7000,6YQ8K93
+ldn-cmcdmz-01,Blade Enclosure,PowerEdge M1000e,G6VN5X1
+del-m7krds-01.apexglobal.com,Blade Enclosure,PowerEdge MX7000,2078J23
+ais-m7krds-05,Blade Enclosure,PowerEdge MX7000,4LJ7G73
+ais-m7krds-03,Blade Enclosure,PowerEdge MX7000,CDF6R53
+ais-m7krds-02,Blade Enclosure,PowerEdge MX7000,6W3V903
+VSP G1500.20561.DKC-0,Main System Chassis,VSP G1500,20561.DKC-0
+VSP G1500.20561.DKC-1,Main System Chassis,VSP G1500,20561.DKC-1
+VSP G1500.20561.DKU-02,Expansion Chassis,VSP G1500,20561.DKU-02
+VSP G1500.20561.DKU-13,Expansion Chassis,VSP G1500,20561.DKU-13
+VSP G1500.20561.DKU-01,Expansion Chassis,VSP G1500,20561.DKU-01
+VSP G1500.20561.DKU-12,Expansion Chassis,VSP G1500,20561.DKU-12
+VSP G1500.20561.DKU-04,Expansion Chassis,VSP G1500,20561.DKU-04
+VSP G1500.20561.DKU-03,Expansion Chassis,VSP G1500,20561.DKU-03
+VSP G1500.20561.DKU-00,Expansion Chassis,VSP G1500,20561.DKU-00
+VSP G1500.20561.DKU-11,Expansion Chassis,VSP G1500,20561.DKU-11
+VSP G1500.20561.DKU-10,Expansion Chassis,VSP G1500,20561.DKU-10
+mcr-cmcdpr-13,Blade Enclosure,PowerEdge M1000e,FY55C42
+mcr-cmcpr-10,Blade Enclosure,PowerEdge M1000e,80R7CZ1
+Mcr-cmcdpr-11,Blade Enclosure,PowerEdge M1000e,F79YX12
+mcr-cmcpr-08,Blade Enclosure,PowerEdge M1000e,7MLNBY1
+MCR-CMCPR-20,Blade Enclosure,PowerEdge M1000e,62P7XM2
+mcr-cmcpr-01,Blade Enclosure,PowerEdge M1000e,5J870W1
+mcr-cmcpr-12,Blade Enclosure,PowerEdge M1000e,10QF842
+VSP F1500.22212.DKC-0,Main System Chassis,VSP F1500,22212.DKC-0
+VSP F1500.22212.DKC-1,Main System Chassis,VSP F1500,22212.DKC-1
+VSP F1500.22212.DKU-02,Expansion Chassis,VSP F1500,22212.DKU-02
+VSP F1500.22212.DKU-01,Expansion Chassis,VSP F1500,22212.DKU-01
+VSP F1500.22212.DKU-00,Expansion Chassis,VSP F1500,22212.DKU-00
+VSP F1500.22212.DKU-11,Expansion Chassis,VSP F1500,22212.DKU-11
+VSP F1500.22212.DKU-10,Expansion Chassis,VSP F1500,22212.DKU-10
+mcr-cmcpr-09,Blade Enclosure,PowerEdge M1000e,7MKLBY1
+mcr-cmcpr-14,Blade Enclosure,PowerEdge M1000e,1VN3D42
+mcr-cmcpr-15,Blade Enclosure,PowerEdge M1000e,6VP6T52
+mcr-cmcpr-07,Blade Enclosure,PowerEdge M1000e,2XFMJY1
+mcr-cmcpr-04,Blade Enclosure,PowerEdge M1000e,4YMMCY1
+mcr-cmcpr-02,Blade Enclosure,PowerEdge M1000e,7YTN5X1
+mcr-cmcpr-16,Blade Enclosure,PowerEdge M1000e,J13TS52
+MCR-CMCPR-19,Blade Enclosure,PowerEdge M1000e,65H8XK2
+mcr-cmcpr-06,Blade Enclosure,PowerEdge M1000e,3D6LKY1
+mcr-cmcpr-17,Blade Enclosure,PowerEdge M1000e,8RB2RD2
+mcr-cmcpr-18,Blade Enclosure,PowerEdge M1000e,1XF3ND2
+mcr-cmcpr-03,Blade Enclosure,PowerEdge M1000e,40NMCY1
+MCR-CMCPR-21,Blade Enclosure,PowerEdge M1000e,62P8XM2
+mcr-cmcpr-05,Blade Enclosure,PowerEdge M1000e,8X6LKY1
+MCR-CMCDMZ-01,Blade Enclosure,PowerEdge M1000e,1ZR1MR2
+FA-m20,Main Chassis,FA-m20,aa816a5a-22fb-4196-85fa-f78246973490
+16SM6C360121,Nutanix Block,NX-1065-G5,16SM6C360121
+CH0,chassis,M_SERIES,PCHFL18300176
+CH0,chassis,M_SERIES,PCHFJ224000F6
+CH0,chassis,M_SERIES,PCHFJ22330079
